@@ -1,6 +1,8 @@
 //🎎(已整理)
-党教服务网线路,https://gitcode.net/yml329/iptv/-/raw/master/iTV/党教服务网直播线路.txt
+党教服务网线路,https://raw.githubusercontent.com/bzcyml329/box/main/iTV/党教服务网直播线路.txt
 
-动物世界,https://gitcode.net/yml329/iptv/-/raw/master/iTV/动物世界.txt
+https://raw.githubusercontent.com/bzcyml329/box/main/iTV/live.txt
+
+动物世界,https://raw.githubusercontent.com/bzcyml329/box/main/iTV/动物世界.txt
 
 
