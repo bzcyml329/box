@@ -6,8 +6,6 @@ CCTV3,http://123.6.9.146/live/jz-cctv-3/live.m3u8
 
 CCTV5,http://123.6.9.146/live/jz-cctv-5/live.m3u8 
 
-CCTV5+,http://123.6.9.146/live/jz-cctv-5-plus/live.m3u8 
-
 CCTV6,http://123.6.9.146/live/jz-cctv-6/live.m3u8 
 
 CCTV7,http://123.6.9.146/live/jz-cctv-7/live.m3u8 
@@ -28,19 +26,9 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 
 湖南卫视,http://123.6.9.146/live/jz-hunanweishi-gq/live.m3u8 
 
-江苏卫视,http://123.6.9.146/live/jz-jiangsuweishi-gq/live.m3u8 
-
-安徽卫视,http://123.6.9.146/live/jz-anhuiweishi-gq/live.m3u8 
-
 浙江卫视,http://123.6.9.146/live/jz-zhejiangweishi/live.m3u8 
 
-深圳卫视,http://123.6.9.146/live/jz-shenzhenweishi/live.m3u8 
-
-重庆卫视,http://123.6.9.146/live/jz-chongqingweishi/live.m3u8 
-
 北京卫视,http://123.6.9.146/live/jz-beijingweishi/live.m3u8 
-
-东方卫视,http://123.6.9.146/live/jz-shanghaiweishi-gq/live.m3u8 
 
 河南卫视,http://123.6.9.146/live/jz-hnweishi/live.m3u8 
 
@@ -49,10 +37,3 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 河南都市,http://123.6.9.146/live/jz-henandushi/live.m3u8 
 
 河南梨园,http://123.6.9.146/live/jz-henanliyuan/live.m3u8 
-
-河南新农村,http://123.6.9.146/live/jz-henanxinnong/live.m3u8 
-
-河南文物宝库,http://123.6.9.146/live/jz-henanwenwu/live.m3u8 
-
-金鹰卡通,http://123.6.9.146/live/jz-jinyingkatong/live.m3u8 
-
