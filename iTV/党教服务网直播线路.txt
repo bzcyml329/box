@@ -24,7 +24,9 @@ CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 
 远程党员教育,http://123.6.9.146/live/jz-m-ycjy/live.m3u8 
 
-湖南卫视,http://123.6.9.146/live/jz-hunanweishi-gq/live.m3u8 
+湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
+
+上海卫视,http://123.6.9.146/live/jz-hunanweishi-gq/live.m3u8 
 
 浙江卫视,http://123.6.9.146/live/jz-zhejiangweishi/live.m3u8 
 
