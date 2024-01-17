@@ -43,16 +43,6 @@ CCTV13,http://123.6.9.146/live/jz-cctv-13/live.m3u8
 
 CCTV14,http://123.6.9.146/live/jz-cctv-14/live.m3u8
 
-湖南卫视,http://42.179.40.167:9901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://42.179.40.167:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://42.179.40.167:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://42.179.40.167:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://42.179.40.167:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://42.179.40.167:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0北京卫视,http://42.179.40.167:9901/tsfile/live/1151_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://42.179.40.167:9901/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视,http://42.179.40.167:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://42.179.40.167:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-
 湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 
 浙江卫视,http://123.6.9.146/live/jz-zhejiangweishi/live.m3u8
@@ -126,6 +116,16 @@ CCTV13,http://gxft.7766.org:9901/tsfile/live/0013_1.m3u8?key=txiptv&url=tvzb.com
 CCTV14,http://gxft.7766.org:9901/tsfile/live/0014_1.m3u8?key=txiptv&url=tvzb.com
 
 CCTV15,http://gxft.7766.org:9901/tsfile/live/0015_1.m3u8?key=txiptv&url=tvzb.com
+
+湖南卫视,http://42.179.40.167:9901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://42.179.40.167:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://42.179.40.167:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://42.179.40.167:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://42.179.40.167:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://42.179.40.167:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0北京卫视,http://42.179.40.167:9901/tsfile/live/1151_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://42.179.40.167:9901/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://42.179.40.167:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://42.179.40.167:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南卫视,http://gxft.7766.org:9901/tsfile/live/0128_1.m3u8?key=txiptv&url=tvzb.com
 
