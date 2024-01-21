@@ -20,39 +20,32 @@ CHC家庭影院,http://42.179.40.167:9901/tsfile/live/1105_1.m3u8?key=txiptv&pla
 
 
 📺央视线路,#genre#
-CCTV1,http://47.242.38.45:9999/ysp.php?id=cctv1
-CCTV2,http://47.242.38.45:9999/ysp.php?id=cctv2
-CCTV3,http://47.242.38.45:9999/ysp.php?id=cctv3
-CCTV4,http://47.242.38.45:9999/ysp.php?id=cctv4
-CCTV5,http://47.242.38.45:9999/ysp.php?id=cctv5
-CCTV5+,http://47.242.38.45:9999/ysp.php?id=cctv5p
-CCTV6,http://47.242.38.45:9999/1905.php?id=cctv6
-CCTV7,http://47.242.38.45:9999/ysp.php?id=cctv7
-CCTV8,http://47.242.38.45:9999/ysp.php?id=cctv8
-CCTV9,http://47.242.38.45:9999/ysp.php?id=cctv9
-CCTV10,http://47.242.38.45:9999/ysp.php?id=cctv10
-CCTV11,http://47.242.38.45:9999/ysp.php?id=cctv11
-CCTV12,http://47.242.38.45:9999/ysp.php?id=cctv12
-CCTV13,http://47.242.38.45:9999/ysp.php?id=cctv13
-CCTV14,http://47.242.38.45:9999/ysp.php?id=cctv14
-
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,http://183.134.3.22:8888/newlive/live/hls/12/live.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 
-//测试
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+
+CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+
+CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+
+CCTV11,http://183.134.3.22:8888/newlive/live/hls/12/live.m3u8
+
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+
 CCTV1,http://gxft.7766.org:9901/tsfile/live/0001_1.m3u8?key=txiptv&url=tvzb.com
 
 CCTV2,http://gxft.7766.org:9901/tsfile/live/0002_1.m3u8?key=txiptv&url=tvzb.com
@@ -63,84 +56,9 @@ CCTV7,http://gxft.7766.org:9901/tsfile/live/0007_1.m3u8?key=txiptv&url=tvzb.com
 
 CCTV9,http://gxft.7766.org:9901/tsfile/live/0009_1.m3u8?key=txiptv&url=tvzb.com
 
-CCTV10,http://gxft.7766.org:9901/tsfile/live/0010_1.m3u8?key=txiptv&url=tvzb.com
-
-CCTV11,http://gxft.7766.org:9901/tsfile/live/0011_1.m3u8?key=txiptv&url=tvzb.com
-
-CCTV12,http://gxft.7766.org:9901/tsfile/live/0012_1.m3u8?key=txiptv&url=tvzb.com
-
-CCTV13,http://gxft.7766.org:9901/tsfile/live/0013_1.m3u8?key=txiptv&url=tvzb.com
-
 CCTV14,http://gxft.7766.org:9901/tsfile/live/0014_1.m3u8?key=txiptv&url=tvzb.com
 
 CCTV15,http://gxft.7766.org:9901/tsfile/live/0015_1.m3u8?key=txiptv&url=tvzb.com
-
-湖南卫视,http://42.179.40.167:9901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://42.179.40.167:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://42.179.40.167:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://42.179.40.167:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://42.179.40.167:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://42.179.40.167:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0北京卫视,http://42.179.40.167:9901/tsfile/live/1151_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://42.179.40.167:9901/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视,http://42.179.40.167:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://42.179.40.167:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-
-湖南卫视,http://gxft.7766.org:9901/tsfile/live/0128_1.m3u8?key=txiptv&url=tvzb.com
-
-上海卫视,http://gxft.7766.org:9901/tsfile/live/0107_1.m3u8?key=txiptv&url=tvzb.com
-
-江苏卫视,http://gxft.7766.org:9901/tsfile/live/0127_1.m3u8?key=txiptv&url=tvzb.com
-
-广西卫视,http://gxft.7766.org:9901/tsfile/live/0113_1.m3u8?key=txiptv&url=tvzb.com
-
-浙江卫视,http://gxft.7766.org:9901/tsfile/live/0124_1.m3u8?key=txiptv&url=tvzb.com
-
-北京卫视,http://gxft.7766.org:9901/tsfile/live/0122_1.m3u8?key=txiptv&url=tvzb.com
-
-四川卫视,http://gxft.7766.org:9901/tsfile/live/0123_1.m3u8?key=txiptv&url=tvzb.com
-
-广东卫视,http://gxft.7766.org:9901/tsfile/live/0125_1.m3u8?key=txiptv&url=tvzb.com
-
-深圳卫视,http://gxft.7766.org:9901/tsfile/live/0126_1.m3u8?key=txiptv&url=tvzb.com
-
-安徽卫视,http://gxft.7766.org:9901/tsfile/live/0130_1.m3u8?key=txiptv&url=tvzb.com
-
-湖北卫视,http://gxft.7766.org:9901/tsfile/live/0132_1.m3u8?key=txiptv&url=tvzb.com
-
-天津卫视,http://gxft.7766.org:9901/tsfile/live/0135_1.m3u8?key=txiptv&url=tvzb.com
-
-陕西卫视,http://gxft.7766.org:9901/tsfile/live/0136_1.m3u8?key=txiptv&url=tvzb.com
-
-东南卫视,http://gxft.7766.org:9901/tsfile/live/0137_1.m3u8?key=txiptv&url=tvzb.com
-
-江西卫视,http://gxft.7766.org:9901/tsfile/live/0138_1.m3u8?key=txiptv&url=tvzb.com
-
-重庆卫视,http://gxft.7766.org:9901/tsfile/live/0142_1.m3u8?key=txiptv&url=tvzb.com
-
-黑龙江卫视,http://gxft.7766.org:9901/tsfile/live/0143_1.m3u8?key=txiptv&url=tvzb.com
-
-山西卫视,http://gxft.7766.org:9901/tsfile/live/0118_1.m3u8?key=txiptv&url=tvzb.com
-
-河北卫视,http://gxft.7766.org:9901/tsfile/live/0117_1.m3u8?key=txiptv&url=tvzb.com
-
-河南卫视,http://gxft.7766.org:9901/tsfile/live/0139_1.m3u8?key=txiptv&url=tvzb.com
-
-贵州卫视,http://gxft.7766.org:9901/tsfile/live/0120_1.m3u8?key=txiptv&url=tvzb.com
-
-云南卫视,http://gxft.7766.org:9901/tsfile/live/0119_1.m3u8?key=txiptv&url=tvzb.com
-
-内蒙古卫视,http://gxft.7766.org:9901/tsfile/live/0109_1.m3u8?key=txiptv&url=tvzb.com
-
-辽宁卫视,http://gxft.7766.org:9901/tsfile/live/0121_1.m3u8?key=txiptv&url=tvzb.com
-
-新疆卫视,http://gxft.7766.org:9901/tsfile/live/0110_1.m3u8?key=txiptv&url=tvzb.com
-
-吉林卫视,http://gxft.7766.org:9901/tsfile/live/0116_1.m3u8?key=txiptv&url=tvzb.com
-
-山东卫视,http://gxft.7766.org:9901/tsfile/live/0131_1.m3u8?key=txiptv&url=tvzb.com
-
-📺内蒙古线路,#genre#
-//20230106直播源  呼市计算机维护公众号
 
 CCTV1,http://221.2.146.228:8888/newlive/live/hls/2/live.m3u8
 
@@ -182,6 +100,50 @@ CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 
 CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
+湖南卫视,http://gxft.7766.org:9901/tsfile/live/0128_1.m3u8?key=txiptv&url=tvzb.com
+
+上海卫视,http://gxft.7766.org:9901/tsfile/live/0107_1.m3u8?key=txiptv&url=tvzb.com
+
+广西卫视,http://gxft.7766.org:9901/tsfile/live/0113_1.m3u8?key=txiptv&url=tvzb.com
+
+北京卫视,http://gxft.7766.org:9901/tsfile/live/0122_1.m3u8?key=txiptv&url=tvzb.com
+
+广东卫视,http://gxft.7766.org:9901/tsfile/live/0125_1.m3u8?key=txiptv&url=tvzb.com
+
+深圳卫视,http://gxft.7766.org:9901/tsfile/live/0126_1.m3u8?key=txiptv&url=tvzb.com
+
+安徽卫视,http://gxft.7766.org:9901/tsfile/live/0130_1.m3u8?key=txiptv&url=tvzb.com
+
+湖北卫视,http://gxft.7766.org:9901/tsfile/live/0132_1.m3u8?key=txiptv&url=tvzb.com
+
+天津卫视,http://gxft.7766.org:9901/tsfile/live/0135_1.m3u8?key=txiptv&url=tvzb.com
+
+陕西卫视,http://gxft.7766.org:9901/tsfile/live/0136_1.m3u8?key=txiptv&url=tvzb.com
+
+东南卫视,http://gxft.7766.org:9901/tsfile/live/0137_1.m3u8?key=txiptv&url=tvzb.com
+
+江西卫视,http://gxft.7766.org:9901/tsfile/live/0138_1.m3u8?key=txiptv&url=tvzb.com
+
+重庆卫视,http://gxft.7766.org:9901/tsfile/live/0142_1.m3u8?key=txiptv&url=tvzb.com
+
+黑龙江卫视,http://gxft.7766.org:9901/tsfile/live/0143_1.m3u8?key=txiptv&url=tvzb.com
+
+山西卫视,http://gxft.7766.org:9901/tsfile/live/0118_1.m3u8?key=txiptv&url=tvzb.com
+
+河南卫视,http://gxft.7766.org:9901/tsfile/live/0139_1.m3u8?key=txiptv&url=tvzb.com
+
+贵州卫视,http://gxft.7766.org:9901/tsfile/live/0120_1.m3u8?key=txiptv&url=tvzb.com
+
+云南卫视,http://gxft.7766.org:9901/tsfile/live/0119_1.m3u8?key=txiptv&url=tvzb.com
+
+内蒙古卫视,http://gxft.7766.org:9901/tsfile/live/0109_1.m3u8?key=txiptv&url=tvzb.com
+
+辽宁卫视,http://gxft.7766.org:9901/tsfile/live/0121_1.m3u8?key=txiptv&url=tvzb.com
+
+吉林卫视,http://gxft.7766.org:9901/tsfile/live/0116_1.m3u8?key=txiptv&url=tvzb.com
+
+山东卫视,http://gxft.7766.org:9901/tsfile/live/0131_1.m3u8?key=txiptv&url=tvzb.com
+
 北京卫视,http://221.2.146.228:8888/newlive/live/hls/18/live.m3u8
 
 东方卫视,http://221.2.146.228:8888/newlive/live/hls/19/live.m3u8
@@ -201,7 +163,6 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
 
 江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360
-
 
 江苏公共新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=4383b1d62510710360
 
@@ -252,7 +213,6 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 重庆卫视1,http://221.2.146.228:8888/newlive/live/hls/34/live.m3u8
 
 重庆卫视2,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-
 
 四川卫视,http://221.2.146.228:8888/newlive/live/hls/35/live.m3u8
 
@@ -319,3 +279,4 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 金鹰卡通,http://221.2.146.228:8888/newlive/live/hls/56/live.m3u8
 
 卡酷少儿,http://221.2.146.228:8888/newlive/live/hls/57/live.m3u8
+//
