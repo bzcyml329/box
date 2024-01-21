@@ -1,5 +1,11 @@
 🎬影院轮播,#genre#
-//9个台 
+//9个台
+欧美大片1,http://openhls-tct.douyucdn2.cn/dyliveflv3/9249162rKSQlX4Zx_2000.m3u8
+
+欧美大片2,http://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
+
+欧美大片3,http://openhls-tct.douyucdn2.cn/dyliveflv3/2793084rV8789IWM_2000.m3u8
+
 欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
