@@ -1,6 +1,6 @@
 🎬影院轮播,#genre#
 //9个台
-金马影院,https://pull.kktv8.com/livekktv/128600025.flv
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 欧美大片1,http://openhls-tct.douyucdn2.cn/dyliveflv3/9249162rKSQlX4Zx_2000.m3u8
 
