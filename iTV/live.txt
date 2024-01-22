@@ -28,7 +28,7 @@ CHC动作电影,https://iptv.luas.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab
 
 CHC动作电影,http://42.179.40.167:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 
-hCHC高清电影,ttp://58.19.13.92:9901/tsfile/live/1038_1.m3u8
+CHC高清电影,http://58.19.13.92:9901/tsfile/live/1038_1.m3u8
 
 CHC高清电影,http://42.179.40.167:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
 
