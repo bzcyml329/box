@@ -32,10 +32,10 @@
 贝爷影厅1,http://epg.112114.xyz/douyu/252802
 贝爷影厅2,http://epg.112114.xyz/douyu/36337
 变种人电影,http://epg.112114.xyz/douyu/9651304
+女神金电影,http://epg.112114.xyz/douyu/747764
+避风港影院,http://epg.112114.xyz/douyu/9826611
 林正英电影1,http://epg.112114.xyz/douyu/218859
 林正英电影2,http://epg.112114.xyz/douyu/7356023
-避风港影院,http://epg.112114.xyz/douyu/9826611
-女神金电影,http://epg.112114.xyz/douyu/747764
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
