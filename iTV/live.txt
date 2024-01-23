@@ -88,7 +88,7 @@ CCTV1-综合,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-1-HQ/G_CCTV-1-HQ.m3
 
 CCTV2-财经,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8 
 
-CCTV3-综艺http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8 
+CCTV3-综艺,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-3-HQ/G_CCTV-3-HQ.m3u8 
 
 CCTV5-体育,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-5-HQ/G_CCTV-5-HQ.m3u8 
 
