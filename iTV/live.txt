@@ -84,6 +84,7 @@
 //
 
 📺极速线路,#genre#
+
 CCTV1-综合,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8 
 
 CCTV2-财经,http://ahcbn.ali-cdn.gitv.tv/gitv_escape/G_CCTV-2-HQ/G_CCTV-2-HQ.m3u8 
@@ -195,7 +196,9 @@ CCTV10-科教,http://1.80.12.9:10000/hls/10/index.m3u8
 
 CCTV11-戏曲,http://1.80.12.9:10000/hls/11/index.m3u8
 
-CCTV13-社会与法,http://1.80.12.9:10000/hls/13/index.m3u8
+CCTV12-社会与法,http://1.80.12.9:10000/hls/12/index.m3u8
+
+CCTV13-新闻,http://1.80.12.9:10000/hls/13/index.m3u8
 
 CCTV14-少儿,http://1.80.12.9:10000/hls/14/index.m3u8
 
