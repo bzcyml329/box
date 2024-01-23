@@ -20,9 +20,6 @@
 
 蓝光轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
 
-电影轮播,http://epg.112114.xyz/douyu/252802
-
-轮播电影,http://epg.112114.xyz/douyu/36337
 
 百视电影,https://bp-caster.bestv.com.cn/91/3/video.m3u8
 
@@ -30,8 +27,6 @@
 
 斗鱼电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
 林正英电影1,http://epg.112114.xyz/douyu/218859
 林正英电影2,http://epg.112114.xyz/douyu/7356023
 女神金电影,http://epg.112114.xyz/douyu/747764
@@ -39,16 +34,15 @@
 贝爷影厅2,http://epg.112114.xyz/douyu/36337
 霍格影片,http://epg.112114.xyz/douyu/8814650
 可乐电影,http://epg.112114.xyz/douyu/20415
-冰冰经典电影,http://epg.112114.xyz/douyu/74374
+
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
+
 避风港影院,http://epg.112114.xyz/douyu/9826611
-林林影院,http://epg.112114.xyz/douyu/9652323
+
 漫威电影,http://epg.112114.xyz/douyu/4282654
 恐怖经典,http://epg.112114.xyz/douyu/1165374
 变种人电影,http://epg.112114.xyz/douyu/9651304
 华语电影,http://epg.112114.xyz/douyu/3928
-华语动作电影,http://epg.112114.xyz/douyu/1504768
 
 📺流畅线路,#genre#
 CCTV1-综合,http://171.117.12.8:9999/tsfile/live/0001_1.m3u8
