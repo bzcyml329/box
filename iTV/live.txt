@@ -24,22 +24,21 @@
 
 漫威电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/6140589rOzZIWxbQ_2000.m3u8
 
-林正英电影1,http://epg.112114.xyz/douyu/218859
-林正英电影2,http://epg.112114.xyz/douyu/7356023
-女神金电影,http://epg.112114.xyz/douyu/747764
-贝爷影厅1,http://epg.112114.xyz/douyu/252802
-贝爷影厅2,http://epg.112114.xyz/douyu/36337
+华语电影,http://epg.112114.xyz/douyu/3928
 霍格影片,http://epg.112114.xyz/douyu/8814650
 可乐电影,http://epg.112114.xyz/douyu/20415
-
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-
-避风港影院,http://epg.112114.xyz/douyu/9826611
-
 漫威电影,http://epg.112114.xyz/douyu/4282654
 恐怖经典,http://epg.112114.xyz/douyu/1165374
+贝爷影厅1,http://epg.112114.xyz/douyu/252802
+贝爷影厅2,http://epg.112114.xyz/douyu/36337
 变种人电影,http://epg.112114.xyz/douyu/9651304
-华语电影,http://epg.112114.xyz/douyu/3928
+林正英电影1,http://epg.112114.xyz/douyu/218859
+林正英电影2,http://epg.112114.xyz/douyu/7356023
+避风港影院,http://epg.112114.xyz/douyu/9826611
+女神金电影,http://epg.112114.xyz/douyu/747764
+奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
+
+斗鱼4K,http://epg.112114.xyz/douyu/9249162
 
 斗鱼电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 
@@ -59,7 +58,7 @@
 斗鱼电影17,http://epg.112114.xyz/douyu/1274132
 斗鱼电影19,http://epg.112114.xyz/douyu/6582435
 斗鱼电影20,http://epg.112114.xyz/douyu/323876
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
+
 斗鱼电影HD1,http://epg.112114.xyz/douyu/20415
 斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
 斗鱼电影HD4,http://epg.112114.xyz/douyu/85894
@@ -82,6 +81,7 @@
 斗鱼电影HD31,http://epg.112114.xyz/douyu/8814650
 斗鱼电影HD33,http://epg.112114.xyz/douyu/52787
 斗鱼电影HD40,http://epg.112114.xyz/douyu/1226741
+//
 
 📺流畅线路,#genre#
 CCTV1-综合,http://171.117.12.8:9999/tsfile/live/0001_1.m3u8
