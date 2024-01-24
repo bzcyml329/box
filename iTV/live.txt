@@ -175,13 +175,13 @@
 
 安徽卫视,http://124.115.205.101:8888/newlive/live/hls/44/live.m3u8
 
-新闻卫视,http://124.115.205.101:8888/newlive/live/hls/45/live.m3u8
+陕西新闻,http://124.115.205.101:8888/newlive/live/hls/45/live.m3u8
 
 都市卫视,http://124.115.205.101:8888/newlive/live/hls/46/live.m3u8
 
 生活卫视,http://124.115.205.101:8888/newlive/live/hls/47/live.m3u8
 
-影院卫视,http://124.115.205.101:8888/newlive/live/hls/48/live.m3u8
+陕西影视,http://124.115.205.101:8888/newlive/live/hls/48/live.m3u8
 
 公共卫视,http://124.115.205.101:8888/newlive/live/hls/49/live.m3u8
 
@@ -231,7 +231,7 @@
 
 河北卫视,http://1.80.12.9:10000/hls/36/index.m3u8
 
-陕西新闻资讯,http://1.80.12.9:10000/hls/37/index.m3u8
+陕西新闻,http://1.80.12.9:10000/hls/37/index.m3u8
 
 农林卫视,http://1.80.12.9:10000/hls/38/index.m3u8
 
