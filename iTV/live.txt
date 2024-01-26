@@ -375,6 +375,10 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 
 📺卫视频道,#genre#
 
+内蒙古卫视,http://124.115.205.101:8888/newlive/live/hls/34/live.m3u8
+
+黑龙江卫视,http://124.115.205.101:8888/newlive/live/hls/41/live.m3u8
+
 湖南卫视,http://124.115.205.101:8888/newlive/live/hls/24/live.m3u8
 
 浙江卫视,http://124.115.205.101:8888/newlive/live/hls/22/live.m3u8
@@ -391,8 +395,6 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 
 安徽卫视,http://124.115.205.101:8888/newlive/live/hls/44/live.m3u8
 
-黑龙江卫视,http://124.115.205.101:8888/newlive/live/hls/41/live.m3u8
-
 四川卫视,http://124.115.205.101:8888/newlive/live/hls/43/live.m3u8
 
 甘肃卫视,http://124.115.205.101:8888/newlive/live/hls/28/live.m3u8
@@ -406,8 +408,6 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 青海卫视,http://124.115.205.101:8888/newlive/live/hls/32/live.m3u8
 
 西藏卫视,http://124.115.205.101:8888/newlive/live/hls/33/live.m3u8
-
-内蒙古卫视,http://124.115.205.101:8888/newlive/live/hls/34/live.m3u8
 
 新疆卫视,http://124.115.205.101:8888/newlive/live/hls/35/live.m3u8
 
@@ -427,15 +427,7 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 
 东南卫视,http://124.115.205.101:8888/newlive/live/hls/52/live.m3u8
 
-生活卫视,http://124.115.205.101:8888/newlive/live/hls/47/live.m3u8
-
-公共卫视,http://124.115.205.101:8888/newlive/live/hls/49/live.m3u8
-
-都市卫视,http://124.115.205.101:8888/newlive/live/hls/46/live.m3u8
-
 兵团卫视,http://124.115.205.101:8888/newlive/live/hls/38/live.m3u8
-
-陕西新闻,http://124.115.205.101:8888/newlive/live/hls/45/live.m3u8
 //
 
 江西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8
@@ -467,8 +459,6 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 北京卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
 
 农林卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
-
-丝路频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
 
 京视剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
 
@@ -613,4 +603,4 @@ CCTV14-少儿,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-//616行
+//606行
