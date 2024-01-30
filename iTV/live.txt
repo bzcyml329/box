@@ -599,10 +599,6 @@ CCTV10-科教,http://111.161.149.122:9901/tsfile/live/0010_1.m3u8?key=txiptv&pla
 CCTV11-戏曲,http://111.161.149.122:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV12-社会与法,http://111.161.149.122:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CCTV13-新闻,http://111.161.149.122:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CCTV14-少儿,http://111.161.149.122:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 //
 CCTV1-综合,http://123.182.208.76:8088/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -627,10 +623,6 @@ CCTV10-科教,http://123.182.208.76:8088/tsfile/live/faacts/0010_1.m3u8?key=txip
 CCTV11-戏曲,http://123.182.208.76:8088/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV12-社会与法,http://123.182.208.76:8088/tsfile/live/faacts/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CCTV13-新闻,http://123.182.208.76:8088/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CCTV14-少儿,http://123.182.208.76:8088/tsfile/live/faacts/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 //
 CCTV1-综合,http://124.115.205.101:8888/newlive/live/hls/2/live.m3u8
 
@@ -641,8 +633,6 @@ CCTV3-综艺,http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
 CCTV4-国际,http://124.115.205.101:8888/newlive/live/hls/5/live.m3u8
 
 CCTV5-体育,http://124.115.205.101:8888/newlive/live/hls/6/live.m3u8
-
-CCTV5+-体育,http://124.115.205.101:8888/newlive/live/hls/7/live.m3u8
 
 CCTV6-电影,http://124.115.205.101:8888/newlive/live/hls/8/live.m3u8
 
@@ -657,10 +647,6 @@ CCTV10-科教,http://124.115.205.101:8888/newlive/live/hls/12/live.m3u8
 CCTV11-戏曲,http://124.115.205.101:8888/newlive/live/hls/13/live.m3u8
 
 CCTV12-社会与法,http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
-
-CCTV13-新闻,http://124.115.205.101:8888/newlive/live/hls/15/live.m3u8
-
-CCTV14-少儿,http://124.115.205.101:8888/newlive/live/hls/16/live.m3u8
 //
 
 CCTV1-综合,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -673,8 +659,6 @@ CCTV4-国际,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 
 CCTV5-体育,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 
-CCTV5+-体育,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-
 CCTV6-电影,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 
 CCTV7-军农,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
@@ -682,10 +666,6 @@ CCTV7-军农,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CCTV8-电视剧,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 
 CCTV9-记录,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-
-CCTV13-新闻,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-
-CCTV14-少儿,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 //
 
 📺历届春晚,#genre#
@@ -769,4 +749,4 @@ CCTV14-少儿,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-//772行
+//752行
