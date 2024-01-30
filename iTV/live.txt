@@ -20,8 +20,6 @@
 
 蓝光轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
 
-百视电影,https://bp-caster.bestv.com.cn/91/3/video.m3u8
-
 漫威电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/6140589rOzZIWxbQ_2000.m3u8
 
 华语电影,http://epg.112114.xyz/douyu/3928
@@ -749,4 +747,4 @@ CCTV9-记录,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-//752行
+//750行
