@@ -1,5 +1,5 @@
 🎬影院轮播,#genre#
-//(20240130)
+//(20240131)
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
 欧美大片,http://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
@@ -163,10 +163,6 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 
 神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 
-绍兴影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-
-爱情公寓,http://epg.112114.xyz/douyu/6863367
-
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 
 电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
@@ -302,77 +298,9 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
 
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
-
-搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
-
-解说_电影狂人,http://cfss.cc/cdn/hy/18715610.flv
-
-解说_鹿哥电影,http://cfss.cc/cdn/hy/24396360.flv
-
-解说_斌哥漫说,http://cfss.cc/cdn/hy/18632116.flv
-
-解说_续哥说电影,http://cfss.cc/cdn/hy/24396472.flv
-
-解说_小川侃电影,http://cfss.cc/cdn/hy/15870999.flv
-
-解说_阿钙扒瞎,http://cfss.cc/cdn/hy/15978172.flv
-
-解说_阿良说剧,http://cfss.cc/cdn/hy/20488841.flv
-
-解说_鱼丸电影,http://cfss.cc/cdn/hy/16615910.flv
-
-解说_阿斗说电影,http://cfss.cc/cdn/hy/13303478.flv
-
-解说_扁豆看电影,http://cfss.cc/cdn/hy/16028551.flv
-
-解说_乌贼说电影,http://cfss.cc/cdn/hy/16604522.flv
-
-解说_大象放映室,http://cfss.cc/cdn/hy/21277391.flv
-
-解说_科幻梦工场,http://cfss.cc/cdn/hy/15152155.flv
-
-解说_亮哥讲电影,http://cfss.cc/cdn/hy/16144175.flv
-
-解说_越哥说电影,http://cfss.cc/cdn/hy/15894162.flv
-
-解说_小冉看电影,http://cfss.cc/cdn/hy/17341907.flv
-
-解说_虎妞说电影,http://cfss.cc/cdn/hy/20343144.flv
-
-解说_涵哥评电影,http://cfss.cc/cdn/hy/16865726.flv
-
-解说_老皮讲电影,http://cfss.cc/cdn/hy/16968572.flv
-
-解说_默爷侃电影,http://cfss.cc/cdn/hy/17204307.flv
-
-解说_冷君说电影,http://cfss.cc/cdn/hy/16739452.flv
-
-解说_刘老师说电影,http://cfss.cc/cdn/hy/20289754.flv
-
-解说_恐怖电影解说,http://cfss.cc/cdn/hy/16741179.flv
-
-剧集_老三国,http://cfss.cc/cdn/hy/11602081.flv
-
-剧集_新三国,http://cfss.cc/cdn/hy/11352944.flv
-
-剧集_新水浒,http://cfss.cc/cdn/hy/11342384.flv
-
-剧集_纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
-
-剧集_庆余年,http://cfss.cc/cdn/hy/11352960.flv
-
-剧集_雍正王朝,http://cfss.cc/cdn/hy/11342439.flv
-
-剧集_士兵突击,http://cfss.cc/cdn/hy/11342430.flv
-
-剧集_爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
-
-剧集_家有儿女,http://cfss.cc/cdn/hy/11352872.flv
-
-剧集_武林外传,http://cfss.cc/cdn/hy/21059598.flv
-
-📺卫视频道,#genre#
 //
+📺卫视频道,#genre#
+
 内蒙古卫视,http://111.161.149.122:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 
 湖南卫视,http://111.161.149.122:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -571,7 +499,7 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 京视剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
 
 综合频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
-
+//
 📺央视频道,#genre#
 
 CCTV1-综合,http://111.161.149.122:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -747,4 +675,4 @@ CCTV9-记录,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-//750行
+//678行
