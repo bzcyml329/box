@@ -4,10 +4,6 @@
 
 欧美大片,http://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
 
-欧美大片,http://openhls-tct.douyucdn2.cn/dyliveflv3/9249162rKSQlX4Zx_2000.m3u8
-
-欧美大片,http://openhls-tct.douyucdn2.cn/dyliveflv3/2793084rV8789IWM_2000.m3u8
-
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 
 经典电影,http://epg.112114.xyz/douyu/74374
@@ -15,10 +11,6 @@
 经典电影,http://113.117.74.99:8081/hls/61/index.m3u8
 
 经典电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/74374rDQ0htkXvRC_2000.m3u8
-
-蓝光轮播,http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rarIpNFUjF_2000.m3u8
-
-蓝光轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
 
 漫威电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/6140589rOzZIWxbQ_2000.m3u8
 
@@ -44,8 +36,6 @@
 
 林正英电影2,http://epg.112114.xyz/douyu/7356023
 
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 
 斗鱼电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
@@ -57,6 +47,12 @@
 斗鱼电影3,http://epg.112114.xyz/douyu/431460
 
 斗鱼电影4,http://epg.112114.xyz/douyu/4246519
+
+斗鱼电影5,http://epg.112114.xyz/douyu/5033502
+
+斗鱼电影6,http://epg.112114.xyz/douyu/6582435
+
+斗鱼电影7,http://epg.112114.xyz/douyu/323876
 
 斗鱼电影8,http://epg.112114.xyz/douyu/4290711
 
@@ -72,25 +68,21 @@
 
 斗鱼电影14,http://epg.112114.xyz/douyu/413573
 
-斗鱼电影15,http://epg.112114.xyz/douyu/5033502
-
-斗鱼电影17,http://epg.112114.xyz/douyu/1274132
-
-斗鱼电影19,http://epg.112114.xyz/douyu/6582435
-
-斗鱼电影20,http://epg.112114.xyz/douyu/323876
-
 斗鱼电影HD1,http://epg.112114.xyz/douyu/20415
+
+斗鱼电影HD2,http://epg.112114.xyz/douyu/52787
 
 斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
 
 斗鱼电影HD4,http://epg.112114.xyz/douyu/85894
 
-斗鱼电影HD5,http://epg.112114.xyz/douyu/263824
+斗鱼电影HD5,http://epg.112114.xyz/douyu/1226741
 
 斗鱼电影HD6,http://epg.112114.xyz/douyu/747764
 
 斗鱼电影HD7,http://epg.112114.xyz/douyu/20415
+
+斗鱼电影HD8,http://epg.112114.xyz/douyu/9651304
 
 斗鱼电影HD9,http://epg.112114.xyz/douyu/323876
 
@@ -106,26 +98,22 @@
 
 斗鱼电影HD15,http://epg.112114.xyz/douyu/413573
 
-斗鱼电影HD18,http://epg.112114.xyz/douyu/9292492
+斗鱼电影HD16,http://epg.112114.xyz/douyu/9292492
 
-斗鱼电影HD22,http://epg.112114.xyz/douyu/252802
+斗鱼电影HD17,http://epg.112114.xyz/douyu/252802
 
-斗鱼电影HD25,http://epg.112114.xyz/douyu/8945323
+斗鱼电影HD18,http://epg.112114.xyz/douyu/8945323
 
-斗鱼电影HD26,http://epg.112114.xyz/douyu/2516864
+斗鱼电影HD19,http://epg.112114.xyz/douyu/2516864
 
-斗鱼电影HD28,http://epg.112114.xyz/douyu/4332
+斗鱼电影HD20,http://epg.112114.xyz/douyu/4332
 
-斗鱼电影HD29,http://epg.112114.xyz/douyu/9651304
-
-斗鱼电影HD31,http://epg.112114.xyz/douyu/8814650
-
-斗鱼电影HD33,http://epg.112114.xyz/douyu/52787
-
-斗鱼电影HD40,http://epg.112114.xyz/douyu/1226741
-//60个电影
-
+斗鱼电影HD21,http://epg.112114.xyz/douyu/8814650
+//
+//
 📺电影轮播,#genre#
+
+yy电影1,http://mmitv.top/pltv/yy.php?id=1382745095
 
 yy电影2,http://mmitv.top/pltv/yy.php?id=1382749892
 
@@ -133,11 +121,9 @@ yy电影3,http://mmitv.top/pltv/yy.php?id=1382735573
 
 yy电影4,http://mmitv.top/pltv/yy.php?id=24921161
 
-yy电影7,http://mmitv.top/pltv/yy.php?id=1354930924
+yy电影5,http://mmitv.top/pltv/yy.php?id=1355171357
 
-yy电影8,http://mmitv.top/pltv/yy.php?id=1382745095
-
-yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
+yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 电影轮播1,http://mmitv.top/pltv/yy.php?id=1382749892
 
@@ -145,11 +131,9 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 
 电影轮播3,http://mmitv.top/pltv/yy.php?id=24921161
 
-电影轮播5,http://mmitv.top/pltv/yy.php?id=1382745095
+电影轮播4,http://mmitv.top/pltv/yy.php?id=1382745095
 
-电影轮播6,http://mmitv.top/pltv/yy.php?id=1355171357
-
-福星高照㊣代,https://pull.kktv8.com/livekktv/99592190.flv
+电影轮播5,http://mmitv.top/pltv/yy.php?id=1355171357
 
 鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 
@@ -164,8 +148,6 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
-
-电影_英叔,http://cfss.cc/cdn/hy/11342421.flv
 
 电影_发哥,http://cfss.cc/cdn/hy/11342387.flv
 
@@ -195,12 +177,6 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 
 电影_海盗,http://cfss.cc/cdn/hy/21059595.flv
 
-电影_赛车,http://cfss.cc/cdn/hy/11279247.flv
-
-电影_推荐,http://cfss.cc/cdn/hy/11602041.flv
-
-电影_救援,http://cfss.cc/cdn/hy/21059594.flv
-
 电影_热血,http://cfss.cc/cdn/hy/11352934.flv
 
 电影_盗墓,http://cfss.cc/cdn/hy/21059552.flv
@@ -208,8 +184,6 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
 
 电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
-
-电影_谍战,http://cfss.cc/cdn/hy/21059585.flv
 
 电影_战争,http://cfss.cc/cdn/hy/21059592.flv
 
@@ -235,14 +209,6 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 
 电影_八点档,http://cfss.cc/cdn/hy/880261.flv
 
-电影_蜘蛛侠,http://cfss.cc/cdn/hy/21059599.flv
-
-电影_贺岁片,http://cfss.cc/cdn/hy/11601986.flv
-
-电影_功夫片,http://cfss.cc/cdn/hy/11352941.flv
-
-电影_黑帮片,http://cfss.cc/cdn/hy/11336719.flv
-
 电影_丧尸片,http://cfss.cc/cdn/hy/21059578.flv
 
 电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
@@ -264,14 +230,6 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 电影_喜剧专场,http://cfss.cc/cdn/hy/11602044.flv
 
 电影_欢笑影院,http://cfss.cc/cdn/hy/11352894.flv
-
-电影_不挤影院,http://cfss.cc/cdn/hy/11352897.flv
-
-电影_国产悬疑,http://cfss.cc/cdn/hy/11342395.flv
-
-电影_黑帮斗争,http://cfss.cc/cdn/hy/11342419.flv
-
-电影_古墓系列,http://cfss.cc/cdn/hy/11352913.flv
 
 电影_嫣然影厅,http://cfss.cc/cdn/hy/11601977.flv
 
@@ -298,6 +256,7 @@ yy电影9,http://mmitv.top/pltv/yy.php?id=1355171357
 电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
 
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
+//
 //
 📺卫视频道,#genre#
 //内蒙古IPTV节目源（ipv4）电视直播APP 2023-04-25 10:05
@@ -832,6 +791,7 @@ CCTV11-戏曲,http://124.115.205.101:8888/newlive/live/hls/13/live.m3u8
 
 CCTV12-社会与法,http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
 //
+//
 📺历届春晚,#genre#
 
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
@@ -913,4 +873,4 @@ CCTV12-社会与法,http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-//916行 20240205 23:00
+//976行 20240205 23:25
