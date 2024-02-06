@@ -1,5 +1,5 @@
 🎬影院轮播,#genre#
-//(20240205)
+//(20240206)
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
 欧美大片,http://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
@@ -259,7 +259,7 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 //
 //
 📺卫视频道,#genre#
-//内蒙古IPTV节目源（ipv4）电视直播APP 2023-04-25 10:05
+//电视直播APP公众号整理
 
 湖南卫视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/01.m3u8?fmt=ts2hls
 
@@ -373,75 +373,33 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 内蒙古卫视,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
 
-内蒙古少儿频道,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
-
-内蒙古新闻综合,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/01.m3u8?fmt=ts2hls
-
-内蒙古文化频道,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
-
-内蒙古农牧频道,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/01.m3u8?fmt=ts2hls
-
-内蒙古经济生活,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/01.m3u8?fmt=ts2hls
-
-额尔古纳电视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225967/01.m3u8?fmt=ts2hls
-
 内蒙古卫视,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
 
 内蒙古卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
 
-额尔古纳电视,http://39.136.34.114/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225967/01.m3u8?fmt=ts2hls
+内蒙古少儿,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
 
-内蒙古少儿频道,http://39.136.34.114/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
+内蒙古文化,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
 
-内蒙古农牧频道,http://39.136.34.114/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/01.m3u8?fmt=ts2hls
+内蒙古少儿,http://39.136.34.114/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
 
-内蒙古经济生活,http://39.136.34.114/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/01.m3u8?fmt=ts2hls
+内蒙古少儿,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
 
-内蒙古少儿频道,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
+内蒙古少儿,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
 
-内蒙古少儿频道,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
+内蒙古文化,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
 
-内蒙古新闻综合,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/01.m3u8?fmt=ts2hls
+内蒙古文化,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
 
-内蒙古文化频道,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
+内蒙古少儿,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
 
-内蒙古农牧频道,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/01.m3u8?fmt=ts2hls
+内蒙古文化,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
 
-内蒙古新闻综合,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/01.m3u8?fmt=ts2hls
+内蒙古少儿,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
 
-内蒙古文化频道,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
+内蒙古文化,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
 
-内蒙古农牧频道,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/01.m3u8?fmt=ts2hls
-
-内蒙古经济生活,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/01.m3u8?fmt=ts2hls
-
-内蒙古少儿频道,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
-
-内蒙古新闻综合,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/01.m3u8?fmt=ts2hls
-
-内蒙古文化频道,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
-
-内蒙古农牧频道,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/01.m3u8?fmt=ts2hls
-
-内蒙古经济生活,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/01.m3u8?fmt=ts2hls
-
-内蒙古少儿频道,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
-
-内蒙古新闻综合,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/01.m3u8?fmt=ts2hls
-
-内蒙古文化频道,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
-
-内蒙古农牧频道,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/01.m3u8?fmt=ts2hls
-
-内蒙古经济生活,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/01.m3u8?fmt=ts2hls
-
-内蒙古新闻综合,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225875/01.m3u8?fmt=ts2hls
-
-内蒙古文化频道,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
-
-内蒙古农牧频道,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225878/01.m3u8?fmt=ts2hls
-
-内蒙古经济生活,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225879/01.m3u8?fmt=ts2hls
+内蒙古文化,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
 
 江西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8
 
@@ -465,19 +423,13 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 深圳卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/1.m3u8
 
-兵团卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
-
 广东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
 
 北京卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
-
-京视剧场,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-
-综合频道,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
 //
 //
 📺央视频道,#genre#
-//内蒙古IPTV节目源（ipv4）电视直播APP 2023-04-25 10:05
+//电视直播APP公众号整理
 
 CCTV1-综合,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225675/01.m3u8?fmt=ts2hls
 
@@ -873,4 +825,4 @@ CCTV12-社会与法,http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-//876行 20240205 23:25
+//828行 20240206 23:35
