@@ -1,13 +1,17 @@
 🎬影院轮播,#genre#
-//(20240208) 20240208 13:20
+//(20240208) 20240208 18:25
 
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
+
+蓝光刀刀,http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rydoJQpfjR_2000.m3u8
 
 可乐电影,http://epg.112114.xyz/douyu/20415
 
 可乐电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
 
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
+
+经典影视,http://110.72.103.69:808/hls/220/index.m3u8
 
 经典电影,http://epg.112114.xyz/douyu/74374
 
@@ -720,4 +724,5 @@ CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-//723行
+
+//共728行
