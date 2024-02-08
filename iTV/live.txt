@@ -1,24 +1,24 @@
 🎬影院轮播,#genre#
-//(20240206)
+//(20240208) 20240208 09:05
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
-欧美大片,http://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
+可乐电影,http://epg.112114.xyz/douyu/20415
+
+可乐电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
 
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 
 经典电影,http://epg.112114.xyz/douyu/74374
 
-经典电影,http://113.117.74.99:8081/hls/61/index.m3u8
-
 经典电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/74374rDQ0htkXvRC_2000.m3u8
+
+经典影院,http://113.117.74.99:8081/hls/61/index.m3u8
 
 漫威电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/6140589rOzZIWxbQ_2000.m3u8
 
 华语电影,http://epg.112114.xyz/douyu/3928
 
 霍格影片,http://epg.112114.xyz/douyu/8814650
-
-可乐电影,http://epg.112114.xyz/douyu/20415
 
 恐怖经典,http://epg.112114.xyz/douyu/1165374
 
@@ -252,8 +252,6 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 电影_搞笑恐怖,http://cfss.cc/cdn/hy/11601960.flv
 
 电影_死神来了,http://cfss.cc/cdn/hy/11352903.flv
-
-电影_变形金刚,http://cfss.cc/cdn/hy/21059596.flv
 
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
 //
@@ -825,4 +823,4 @@ CCTV12-社会与法,http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-//828行 20240206 23:35
+//826行
