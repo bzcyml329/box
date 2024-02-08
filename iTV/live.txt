@@ -1,5 +1,5 @@
 🎬影院轮播,#genre#
-//(20240208) 20240208 18:25
+//(20240208) 20240208 23:10
 
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
@@ -81,7 +81,7 @@
 
 斗鱼电影HD5,http://epg.112114.xyz/douyu/1226741
 
-斗鱼电影HD6,http://epg.112114.xyz/douyu/747764
+斗鱼电影HD6,http://epg.112114.xyz/douyu/8814650
 
 斗鱼电影HD7,http://epg.112114.xyz/douyu/20415
 
@@ -110,8 +110,6 @@
 斗鱼电影HD19,http://epg.112114.xyz/douyu/2516864
 
 斗鱼电影HD20,http://epg.112114.xyz/douyu/4332
-
-斗鱼电影HD21,http://epg.112114.xyz/douyu/8814650
 //
 📺电影轮播,#genre#
 
@@ -251,7 +249,6 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 //
 📺卫视频道,#genre#
 //电视直播APP公众号整理
-
 湖南卫视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/01.m3u8?fmt=ts2hls
 
 内蒙卫视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
@@ -368,7 +365,6 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 //
 📺央视频道,#genre#
 //电视直播APP公众号整理
-
 CCTV1-综合,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225675/01.m3u8?fmt=ts2hls
 
 CCTV1-综合,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/01.m3u8?fmt=ts2hls
@@ -592,7 +588,6 @@ CCTV6-电影,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/01.m3u8?fmt=ts2hls
 //
 📺历届春晚,#genre#
-
 1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 
 1984年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
@@ -606,6 +601,8 @@ CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 1988年,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
 
 1989年,https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+
+1990年,https://cdn8.yzzy-tv-cdn.com/20220704/597_e0d90c37/index.m3u8
 
 1991年,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
 
@@ -649,11 +646,15 @@ CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 
 2011年,https://txmov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
 
+2012年,https://cdn8.yzzy-tv-cdn.com/20220704/591_82b72f82/index.m3u8
+
 2013年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
 
 2014年,https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
 
 2015年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+
+2016年,https://cdn8.yzzy-tv-cdn.com/20220704/577_cda9c8d1/index.m3u8
 
 2017年,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
 
@@ -724,5 +725,4 @@ CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-
 //共728行
