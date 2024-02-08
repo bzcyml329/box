@@ -1,5 +1,6 @@
 🎬影院轮播,#genre#
-//(20240208) 20240208 09:05
+//(20240208) 
+//20240208 11:30
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
 可乐电影,http://epg.112114.xyz/douyu/20415
@@ -11,8 +12,6 @@
 经典电影,http://epg.112114.xyz/douyu/74374
 
 经典电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/74374rDQ0htkXvRC_2000.m3u8
-
-经典影院,http://113.117.74.99:8081/hls/61/index.m3u8
 
 漫威电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/6140589rOzZIWxbQ_2000.m3u8
 
@@ -110,7 +109,6 @@
 
 斗鱼电影HD21,http://epg.112114.xyz/douyu/8814650
 //
-//
 📺电影轮播,#genre#
 
 yy电影1,http://mmitv.top/pltv/yy.php?id=1382745095
@@ -175,8 +173,6 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 电影_枪战,http://cfss.cc/cdn/hy/21059579.flv
 
-电影_海盗,http://cfss.cc/cdn/hy/21059595.flv
-
 电影_热血,http://cfss.cc/cdn/hy/11352934.flv
 
 电影_盗墓,http://cfss.cc/cdn/hy/21059552.flv
@@ -213,10 +209,6 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 电影_灾难片,http://cfss.cc/cdn/hy/11602075.flv
 
-电影_谍战片,http://cfss.cc/cdn/hy/21059587.flv
-
-电影_战争片,http://cfss.cc/cdn/hy/21059574.flv
-
 电影_犯罪片,http://cfss.cc/cdn/hy/11352974.flv
 
 电影_古装片,http://cfss.cc/cdn/hy/11336590.flv
@@ -242,8 +234,6 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 电影_经典港片,http://cfss.cc/cdn/hy/11352965.flv
 
 电影_镖行天下,http://cfss.cc/cdn/hy/11352969.flv
-
-电影_高能反转,http://cfss.cc/cdn/hy/11352887.flv
 
 电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.flv
 
@@ -823,4 +813,4 @@ CCTV12-社会与法,http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-//826行
+//816行
