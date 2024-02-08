@@ -1,23 +1,18 @@
 🎬影院轮播,#genre#
-//(20240208) 20240208 23:10
+//更新日期-20240208-23:58
 
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
-蓝光刀刀,http://openhls-tct.douyucdn2.cn/dyliveflv1a/747764rydoJQpfjR_2000.m3u8
-
 可乐电影,http://epg.112114.xyz/douyu/20415
-
-可乐电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.m3u8
 
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 
-经典影视,http://110.72.103.69:808/hls/220/index.m3u8
+恐怖电影,http://epg.112114.xyz/douyu/263824
 
+经典影视,http://110.72.103.69:808/hls/220/index.m3u8
 经典电影,http://epg.112114.xyz/douyu/74374
 
-经典电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/74374rDQ0htkXvRC_2000.m3u8
-
-漫威电影,http://openhls-tct.douyucdn2.cn/dyliveflv3a/6140589rOzZIWxbQ_2000.m3u8
+漫威电影,http://epg.112114.xyz/douyu/6140589
 
 华语电影,http://epg.112114.xyz/douyu/3928
 
@@ -39,11 +34,7 @@
 
 林正英电影2,http://epg.112114.xyz/douyu/7356023
 
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
-
-斗鱼电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
-
-斗鱼电影1,http://epg.112114.xyz/douyu/2935323
+斗鱼电影1,http://epg.112114.xyz/douyu/3637778
 
 斗鱼电影2,http://epg.112114.xyz/douyu/7459925
 
@@ -55,7 +46,7 @@
 
 斗鱼电影6,http://epg.112114.xyz/douyu/6582435
 
-斗鱼电影7,http://epg.112114.xyz/douyu/323876
+斗鱼电影7,http://epg.112114.xyz/douyu/9249162
 
 斗鱼电影8,http://epg.112114.xyz/douyu/4290711
 
@@ -69,47 +60,27 @@
 
 斗鱼电影13,http://epg.112114.xyz/douyu/5067952
 
-斗鱼电影14,http://epg.112114.xyz/douyu/413573
+斗鱼电影14,http://epg.112114.xyz/douyu/4332
 
-斗鱼电影HD1,http://epg.112114.xyz/douyu/20415
+斗鱼电影15,http://epg.112114.xyz/douyu/52787
 
-斗鱼电影HD2,http://epg.112114.xyz/douyu/52787
+斗鱼电影16,http://epg.112114.xyz/douyu/122402
 
-斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
+斗鱼电影17,http://epg.112114.xyz/douyu/85894
 
-斗鱼电影HD4,http://epg.112114.xyz/douyu/85894
+斗鱼电影18,http://epg.112114.xyz/douyu/1226741
 
-斗鱼电影HD5,http://epg.112114.xyz/douyu/1226741
+斗鱼电影19,http://epg.112114.xyz/douyu/9292492
 
-斗鱼电影HD6,http://epg.112114.xyz/douyu/8814650
+斗鱼电影20,http://epg.112114.xyz/douyu/8945323
 
-斗鱼电影HD7,http://epg.112114.xyz/douyu/20415
+斗鱼电影21,http://epg.112114.xyz/douyu/2516864
 
-斗鱼电影HD8,http://epg.112114.xyz/douyu/9651304
+斗鱼电影22,http://epg.112114.xyz/douyu/323876
 
-斗鱼电影HD9,http://epg.112114.xyz/douyu/323876
+斗鱼电影23,http://epg.112114.xyz/douyu/2436390
 
-斗鱼电影HD10,http://epg.112114.xyz/douyu/6140589
-
-斗鱼电影HD11,http://epg.112114.xyz/douyu/8770422
-
-斗鱼电影HD12,http://epg.112114.xyz/douyu/2436390
-
-斗鱼电影HD13,http://epg.112114.xyz/douyu/218859
-
-斗鱼电影HD14,http://epg.112114.xyz/douyu/36337
-
-斗鱼电影HD15,http://epg.112114.xyz/douyu/413573
-
-斗鱼电影HD16,http://epg.112114.xyz/douyu/9292492
-
-斗鱼电影HD17,http://epg.112114.xyz/douyu/252802
-
-斗鱼电影HD18,http://epg.112114.xyz/douyu/8945323
-
-斗鱼电影HD19,http://epg.112114.xyz/douyu/2516864
-
-斗鱼电影HD20,http://epg.112114.xyz/douyu/4332
+斗鱼电影24,http://epg.112114.xyz/douyu/413573
 //
 📺电影轮播,#genre#
 
@@ -124,16 +95,6 @@ yy电影4,http://mmitv.top/pltv/yy.php?id=24921161
 yy电影5,http://mmitv.top/pltv/yy.php?id=1355171357
 
 yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
-
-电影轮播1,http://mmitv.top/pltv/yy.php?id=1382749892
-
-电影轮播2,http://mmitv.top/pltv/yy.php?id=1382735573
-
-电影轮播3,http://mmitv.top/pltv/yy.php?id=24921161
-
-电影轮播4,http://mmitv.top/pltv/yy.php?id=1382745095
-
-电影轮播5,http://mmitv.top/pltv/yy.php?id=1355171357
 
 鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 
@@ -249,6 +210,7 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 //
 📺卫视频道,#genre#
 //电视直播APP公众号整理
+
 湖南卫视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/01.m3u8?fmt=ts2hls
 
 内蒙卫视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
@@ -365,6 +327,7 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 //
 📺央视频道,#genre#
 //电视直播APP公众号整理
+
 CCTV1-综合,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225675/01.m3u8?fmt=ts2hls
 
 CCTV1-综合,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/01.m3u8?fmt=ts2hls
@@ -535,8 +498,6 @@ CCTV1-综合,http://39.136.34.217/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 
 CCTV3-综艺,http://39.136.34.217/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/01.m3u8?fmt=ts2hls
 
-CCTV5-体育,http://39.136.34.217/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/01.m3u8?fmt=ts2hls
-
 CCTV6-电影,http://39.136.34.217/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/01.m3u8?fmt=ts2hls
 
 CCTV8-电视剧,http://39.136.34.217/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225966/01.m3u8?fmt=ts2hls
@@ -581,13 +542,12 @@ CCTV13-新闻,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/8888889
 
 CCTV13-新闻,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225666/01.m3u8?fmt=ts2hls
 
-CCTV5-体育,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225658/01.m3u8?fmt=ts2hls
-
 CCTV6-电影,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225660/01.m3u8?fmt=ts2hls
 
 CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/01.m3u8?fmt=ts2hls
 //
 📺历届春晚,#genre#
+
 1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 
 1984年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
@@ -725,4 +685,4 @@ CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-//共728行
+//共688行
