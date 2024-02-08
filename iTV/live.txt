@@ -1,6 +1,6 @@
 🎬影院轮播,#genre#
 //(20240208) 
-//20240208 11:30
+//20240208 12:45
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
 可乐电影,http://epg.112114.xyz/douyu/20415
@@ -251,7 +251,7 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 湖南卫视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/01.m3u8?fmt=ts2hls
 
-内蒙古卫视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
+内蒙卫视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
 
 辽宁卫视,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225902/01.m3u8?fmt=ts2hls
 
@@ -279,7 +279,7 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 江西卫视,http://39.136.34.114/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225756/01.m3u8?fmt=ts2hls
 
-内蒙古卫视,http://39.136.34.114/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
+内蒙卫视,http://39.136.34.114/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
 
 四川卫视,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225733/01.m3u8?fmt=ts2hls
 
@@ -297,7 +297,7 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 海南卫视,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225930/01.m3u8?fmt=ts2hls
 
-内蒙古卫视,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
+内蒙卫视,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
 
 甘肃卫视,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225958/01.m3u8?fmt=ts2hls
 
@@ -325,32 +325,6 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 北京卫视,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225913/01.m3u8?fmt=ts2hls
 
-湖南卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/01.m3u8?fmt=ts2hls
-
-四川卫视,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225733/01.m3u8?fmt=ts2hls
-
-辽宁卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225902/01.m3u8?fmt=ts2hls
-
-浙江卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225906/01.m3u8?fmt=ts2hls
-
-天津卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225907/01.m3u8?fmt=ts2hls
-
-江苏卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225909/01.m3u8?fmt=ts2hls
-
-湖南卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225912/01.m3u8?fmt=ts2hls
-
-吉林卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225959/01.m3u8?fmt=ts2hls
-
-辽宁卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225902/01.m3u8?fmt=ts2hls
-
-浙江卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225906/01.m3u8?fmt=ts2hls
-
-天津卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225907/01.m3u8?fmt=ts2hls
-
-北京卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225913/01.m3u8?fmt=ts2hls
-
-吉林卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225959/01.m3u8?fmt=ts2hls
-
 甘肃卫视,http://39.136.34.211/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225958/01.m3u8?fmt=ts2hls
 
 甘肃卫视,http://39.136.34.215/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225958/01.m3u8?fmt=ts2hls
@@ -359,35 +333,9 @@ yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 江西卫视,http://39.136.34.211/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225756/01.m3u8?fmt=ts2hls
 
-内蒙古卫视,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
+内蒙卫视,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
 
-内蒙古卫视,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
-
-内蒙古卫视,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
-
-内蒙古少儿,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
-
-内蒙古文化,http://39.136.34.116/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
-
-内蒙古少儿,http://39.136.34.114/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
-
-内蒙古少儿,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
-
-内蒙古少儿,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
-
-内蒙古文化,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
-
-内蒙古文化,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
-
-内蒙古少儿,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
-
-内蒙古文化,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
-
-内蒙古少儿,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225874/01.m3u8?fmt=ts2hls
-
-内蒙古文化,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
-
-内蒙古文化,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225876/01.m3u8?fmt=ts2hls
+内蒙卫视,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225676/01.m3u8?fmt=ts2hls
 
 江西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8
 
@@ -537,25 +485,11 @@ CCTV6-电影,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 
 CCTV13-新闻,http://39.136.34.118/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225666/01.m3u8?fmt=ts2hls
 
-CCTV1-综合,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/01.m3u8?fmt=ts2hls
-
-CCTV2-财经,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/01.m3u8?fmt=ts2hls
-
 CCTV3-综艺,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/01.m3u8?fmt=ts2hls
-
-CCTV4-国际,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225898/01.m3u8?fmt=ts2hls
 
 CCTV5-体育,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/01.m3u8?fmt=ts2hls
 
-CCTV6-电影,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225965/01.m3u8?fmt=ts2hls
-
-CCTV7-军农,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225897/01.m3u8?fmt=ts2hls
-
-CCTV8-电视剧,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225966/01.m3u8?fmt=ts2hls
-
 CCTV10-科教,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225917/01.m3u8?fmt=ts2hls
-
-CCTV11-戏曲,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225867/01.m3u8?fmt=ts2hls
 
 CCTV12-社会与法,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225915/01.m3u8?fmt=ts2hls
 
@@ -573,49 +507,9 @@ CCTV1-综合,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 
 CCTV8-电视剧,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225966/01.m3u8?fmt=ts2hls
 
-CCTV8-电视剧,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225661/01.m3u8?fmt=ts2hls
-
 CCTV15-音乐,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/01.m3u8?fmt=ts2hls
 
 CCTV11-戏曲,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225867/01.m3u8?fmt=ts2hls
-
-CCTV12-社会与法,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225915/01.m3u8?fmt=ts2hls
-
-CCTV14-少儿,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225916/01.m3u8?fmt=ts2hls
-
-CCTV10-科教,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225917/01.m3u8?fmt=ts2hls
-
-CCTV13-新闻,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225957/01.m3u8?fmt=ts2hls
-
-CCTV3-综艺,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/01.m3u8?fmt=ts2hls
-
-CCTV5-体育,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/01.m3u8?fmt=ts2hls
-
-CCTV16-欧林匹克,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/01.m3u8?fmt=ts2hls
-
-CCTV8-电视剧,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225661/01.m3u8?fmt=ts2hls
-
-CCTV15-音乐,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225866/01.m3u8?fmt=ts2hls
-
-CCTV11-戏曲,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225867/01.m3u8?fmt=ts2hls
-
-CCTV7-军农,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225897/01.m3u8?fmt=ts2hls
-
-CCTV12-社会与法,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225915/01.m3u8?fmt=ts2hls
-
-CCTV10-科教,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225917/01.m3u8?fmt=ts2hls
-
-CCTV2-财经,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225918/01.m3u8?fmt=ts2hls
-
-CCTV1-综合,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225920/01.m3u8?fmt=ts2hls
-
-CCTV3-综艺,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225963/01.m3u8?fmt=ts2hls
-
-CCTV5-体育,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225964/01.m3u8?fmt=ts2hls
-
-CCTV8-电视剧,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225966/01.m3u8?fmt=ts2hls
-
-CCTV16-欧林匹克,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221226300/01.m3u8?fmt=ts2hls
 
 CCTV12-社会与法,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225915/01.m3u8?fmt=ts2hls
 
@@ -685,8 +579,6 @@ CCTV5-体育,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 
 CCTV6-电影,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225660/01.m3u8?fmt=ts2hls
 
-CCTV13-新闻,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225666/01.m3u8?fmt=ts2hls
-
 CCTV13-新闻,http://39.136.34.120/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225666/01.m3u8?fmt=ts2hls
 
 CCTV13-新闻,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225666/01.m3u8?fmt=ts2hls
@@ -695,17 +587,7 @@ CCTV5-体育,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 
 CCTV6-电影,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225660/01.m3u8?fmt=ts2hls
 
-CCTV5-体育,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225658/01.m3u8?fmt=ts2hls
-
-CCTV6-电影,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225660/01.m3u8?fmt=ts2hls
-
-CCTV5-体育,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225658/01.m3u8?fmt=ts2hls
-
-CCTV6-电影,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225660/01.m3u8?fmt=ts2hls
-
 CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/01.m3u8?fmt=ts2hls
-
-CCTV13-新闻,http://39.136.34.124/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225666/01.m3u8?fmt=ts2hls
 
 CCTV1-综合,http://124.115.205.101:8888/newlive/live/hls/2/live.m3u8
 
@@ -813,4 +695,4 @@ CCTV12-社会与法,http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-//816行
+//698行
