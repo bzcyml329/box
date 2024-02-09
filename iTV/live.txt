@@ -1,5 +1,5 @@
 🎬影院轮播,#genre#
-//更新日期-20240209-00:08 //180个台
+//更新日期-20240209-20:28 //180个台
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
 可乐电影,http://epg.112114.xyz/douyu/20415
@@ -84,17 +84,17 @@
 //
 📺电影轮播,#genre#
 
-yy电影1,http://mmitv.top/pltv/yy.php?id=1382745095
+YY电影1,http://mmitv.top/pltv/yy.php?id=1382745095
 
-yy电影2,http://mmitv.top/pltv/yy.php?id=1382749892
+YY电影2,http://mmitv.top/pltv/yy.php?id=1382749892
 
-yy电影3,http://mmitv.top/pltv/yy.php?id=1382735573
+YY电影3,http://mmitv.top/pltv/yy.php?id=1382735573
 
-yy电影4,http://mmitv.top/pltv/yy.php?id=24921161
+YY电影4,http://mmitv.top/pltv/yy.php?id=24921161
 
-yy电影5,http://mmitv.top/pltv/yy.php?id=1355171357
+YY电影5,http://mmitv.top/pltv/yy.php?id=1355171357
 
-yy电影6,http://mmitv.top/pltv/yy.php?id=1354930924
+YY电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
 
