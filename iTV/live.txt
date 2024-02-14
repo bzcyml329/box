@@ -1,5 +1,6 @@
 🎬影院轮播,#genre#
-//更新日期-20240213-18:35 //180个台
+//更新日期-20240214-12:50
+//180个台
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
 可乐电影,http://epg.112114.xyz/douyu/20415
@@ -81,6 +82,7 @@
 斗鱼电影22,http://epg.112114.xyz/douyu/323876
 
 斗鱼电影23,http://epg.112114.xyz/douyu/2436390
+//
 //
 📺电影轮播,#genre#
 
@@ -208,6 +210,7 @@ YY电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 
 电影_怪兽系列,http://cfss.cc/cdn/hy/21059554.flv
 //
+//
 📺卫视频道,#genre#
 //电视直播APP公众号整理
 
@@ -324,6 +327,7 @@ YY电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 广东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
 
 北京卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
+//
 //
 📺央视频道,#genre#
 //电视直播APP公众号整理
@@ -546,6 +550,42 @@ CCTV6-电影,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 
 CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/01.m3u8?fmt=ts2hls
 //
+//20240214日收集 速度可以
+CCTV-1综合,http://61.136.96.78:880/1.m3u8
+
+CCTV-2财经,http://61.136.96.78:880/2.m3u8
+
+CCTV-3综艺,http://61.136.96.78:880/3.m3u8
+
+CCTV-4国际,http://61.136.96.78:880/4.m3u8
+
+CCTV-5体育,http://61.136.96.78:880/5.m3u8
+
+CCTV-5+体育+,http://61.136.96.78:880/16.m3u8
+
+CCTV-6电影,http://61.136.96.78:880/6.m3u8
+
+CCTV-7军农,http://61.136.96.78:880/7.m3u8
+
+CCTV-8电视剧,http://61.136.96.78:880/8.m3u8
+
+CCTV-9纪录,http://61.136.96.78:880/9.m3u8
+
+CCTV-10科教,http://61.136.96.78:880/10.m3u8
+
+CCTV-11戏曲,http://61.136.96.78:880/11.m3u8
+
+CCTV-12社会与法,http://61.136.96.78:880/12.m3u8
+
+CCTV-13新闻,http://61.136.96.78:880/13.m3u8
+
+CCTV-14少儿,http://61.136.96.78:880/14.m3u8
+
+CCTV-15音乐,http://61.136.96.78:880/15.m3u8
+
+CCTV-17农业农村,http://61.136.96.78:880/17.m3u8
+//
+//
 📺历届春晚,#genre#
 
 1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
@@ -685,4 +725,4 @@ CCTV4-国际,http://39.136.34.122/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-//共688行
+//共728行
