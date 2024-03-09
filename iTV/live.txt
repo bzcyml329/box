@@ -1,5 +1,5 @@
 🎬影院轮播,#genre#
-//更新日期-20240224-22:22  181个台
+//更新日期-20240309-21:36  172个台
 
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 
@@ -8,8 +8,6 @@
 豆瓣高分,http://epg.112114.xyz/douyu/8770422
 
 恐怖电影,http://epg.112114.xyz/douyu/263824
-
-经典影视,http://1.69.115.224:9902/tsfile/live/1017_1.m3u8
 
 经典电影,http://epg.112114.xyz/douyu/74374
 
@@ -86,20 +84,6 @@
 //
 📺电影轮播,#genre#
 
-YY电影1,http://mmitv.top/pltv/yy.php?id=1382745095
-
-YY电影2,http://mmitv.top/pltv/yy.php?id=1382749892
-
-YY电影3,http://mmitv.top/pltv/yy.php?id=1382735573
-
-YY电影4,http://mmitv.top/pltv/yy.php?id=24921161
-
-YY电影5,http://mmitv.top/pltv/yy.php?id=1355171357
-
-YY电影6,http://mmitv.top/pltv/yy.php?id=1354930924
-
-鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
-
 瑶瑶恐怖㊣版,http://159.75.85.63:35455/douyu/2935323
 
 怡寶影院㊣版,http://159.75.85.63:35455/douyu/434971
@@ -145,8 +129,6 @@ YY电影6,http://mmitv.top/pltv/yy.php?id=1354930924
 电影_贺岁,http://cfss.cc/cdn/hy/11601971.flv
 
 电影_玄幻,http://cfss.cc/cdn/hy/11342414.flv
-
-电影_战争,http://cfss.cc/cdn/hy/21059592.flv
 
 电影_喜剧,http://cfss.cc/cdn/hy/11352877.flv
 
@@ -725,4 +707,4 @@ CCTV17-农业农村,http://61.136.96.78:880/17.m3u8
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-//共728行
+//共710行
