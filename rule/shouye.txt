@@ -17,6 +17,7 @@ tp(/6img/souav.png)mc(搜AV视频)ym(https://api.yilushunfeng.top/video2/souavsp
 tp(/6img/xiaohuli1.png)mc(稀缺资源[禁])ym(https://api.yilushunfeng.top/video1)qd(小可爱)gjc(xiaohuli)sjyt(https://WWW.BAIDU.com)lx(视频)换行
 tp(/6img/miehuoguan.png)mc(灭火管app)ym(https://api.yilushunfeng.top/video1)qd(小可爱)gjc(mhg)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 tp(/6img/dxj.png)mc(大小姐)ym(https://api.yilushunfeng.top/video1)qd(小可爱)gjc(daxiaojie)sjyt(https://WWW.BAIDU.com)lx(aa)换行
+tp(/6img/yuzhousou.jpg)mc(宇宙搜)ym(https://api.yilushunfeng.top/video2/xnxx/xn)qd(小可爱)gjc(xnxx)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 tp(/6img/ic_banana.png)mc(香蕉视频[秒播])ym(https://api.yilushunfeng.top/video1)qd(小可爱)gjc(xiangjiao)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 tp(/6img/kuaimao.png)mc(快猫)ym(http://43.135.90.103:8099)qd(快猫)gjc(kuaimao)sjyt(owerbsd.hxqqzu.xyz)lx(aa)换行
 tp(/6img/kuaimao.png)mc(快猫新版)ym(http://43.132.127.51:8099)qd(快猫新版)gjc(kuaimao)sjyt(vvv.hxqqzu.xyz)lx(aa)换行
@@ -25,7 +26,6 @@ tp(/6img/shuiguopai.png)mc(水果派)ym(https://newapi.ae69d28.com)qd(水果派)
 https://api.cbbee0.com
 tp(/6img/maomisq.png)mc(猫咪)ym(http://43.132.224.223:8089)qd(猫咪)gjc(kuaimao)sjyt(cdn.nci1zg.xyz)lx(aa)换行
 tp(/6img/maomisq.png)mc(猫咪原创)ym(http://43.132.224.223:8089)qd(猫咪原创)gjc(kuaimao)sjyt(cdn.nci1zg.xyz)lx(aa)换行
-
 
 tp(/6img/gdian.png)mc(G点视频)ym(https://api.yilushunfeng.top/video1)qd(小可爱)gjc(gdian)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 
@@ -39,7 +39,6 @@ tp(/6img/qiandusousuo.jpg)mc(千度搜索)ym(https://api.yilushunfeng.top/video2
 tp(/6img/mogu01.png)mc(蘑菇视频)ym(https://api.yilushunfeng.top/video1)qd(小可爱)gjc(mogu)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 
 tp(/6img/quanqiusou.jpg)mc(全球搜)ym(https://api.yilushunfeng.top/video2/xvideos/xv)qd(小可爱)gjc(xvideos)sjyt(https://WWW.BAIDU.com)lx(aa)换行
-tp(/6img/yuzhousou.jpg)mc(宇宙搜)ym(https://api.yilushunfeng.top/video2/xnxx/xn)qd(小可爱)gjc(xnxx)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 
 tp(/6img/lutube.png)mc(lutube)ym(https://api.yilushunfeng.top/video1)qd(小可爱)gjc(lutube)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 tp(/6img/hsck.png)mc(黄色仓库2)ym(https://api.yilushunfeng.top/video2/qiqian/hsck)qd(小可爱)gjc(hsck2)sjyt(https://WWW.BAIDU.com)lx(aa)换行
