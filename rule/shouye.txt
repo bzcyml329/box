@@ -68,7 +68,6 @@ tp(/6img/yutu.png)mc(玉兔视频)ym(https://api1.ffudingdang.com:9002)qd(夜半
 tp(/6img/xiangcao.png)mc(番号视频)ym(https://api1.ffudingdang.com:9002)qd(夜半晚报)gjc(fanhao)sjyt(https://api1.ffudingdang.com:9002)lx(aa)换行
 tp(/6img/yabo.png)mc(老鸭视频)ym(https://api1.ffudingdang.com:9002)qd(夜半晚报)gjc(laoya)sjyt(https://api1.ffudingdang.com:9002)lx(aa)换行
 tp(/6img/huajiao.png)mc(奶香视频)ym(https://api1.ffudingdang.com:9002)qd(夜半晚报)gjc(naixiang)sjyt(https://api1.ffudingdang.com:9002)lx(aa)换行
-tp(/6img/tantan.png)mc(探探视频)ym(https://api1.ffudingdang.com:9002)qd(夜半晚报)gjc(tantan)sjyt(https://api1.ffudingdang.com:9002)lx(aa)换行
 tp(/6img/mangguo.ico)mc(芒果视频)ym(https://api1.ffudingdang.com:9002)qd(夜半晚报)gjc(mangguo)sjyt(https://api1.ffudingdang.com:9002)lx(aa)换行
 tp(/6img/sewo.png)mc(色窝视频)ym(https://api1.ffudingdang.com:9002)qd(夜半晚报)gjc(sewo)sjyt(https://api1.ffudingdang.com:9002)lx(aa)换行
 tp(/6img/putao.jpg)mc(葡萄视频)ym(https://api1.ffudingdang.com:9002)qd(夜半晚报)gjc(putao)sjyt(https://api1.ffudingdang.com:9002)lx(aa)换行
@@ -82,7 +81,7 @@ tp(/6img/mangguo.ico)mc(秋葵视频)ym(https://api1.ffudingdang.com:9002)qd(夜
 tp(/6img/pali.png)mc(啪哩啪哩)ym(https://api.yilushunfeng.top/video1)qd(小可爱)gjc(pali)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 tp(/6img/missav.png)mc(日本专区)ym(https://api.yilushunfeng.top/video2/missav/missav)qd(小可爱)gjc(missav)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 tp(/6img/91porn.png)mc(91porn)ym(https://api.yilushunfeng.top/video2/91porn)qd(小可爱)gjc(91porn)sjyt(https://WWW.BAIDU.com)lx(aa)换行
-
+tp(/6img/tantan.png)mc(探探视频)ym(https://api1.ffudingdang.com:9002)qd(夜半晚报)gjc(tantan)sjyt(https://api1.ffudingdang.com:9002)lx(aa)换行
 tp(/6img/hsck.png)mc(黄色仓库)ym(https://api.yilushunfeng.top/video2/huangseck)qd(小可爱)gjc(hsck)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 tp(/6img/ins.png)mc(ins社区)ym(https://api.yilushunfeng.top/video1)qd(小可爱)gjc(ins)sjyt(https://WWW.BAIDU.com)lx(aa)换行
 
